@@ -4,6 +4,6 @@ Movie review mock site where users can read, upload reviews, explore other movie
 
 Stack:
 
-Java Backend
-MongoDB noSQL
-React Frontend.
+Java Backend, 
+MongoDB noSQL,
+React Frontend,
